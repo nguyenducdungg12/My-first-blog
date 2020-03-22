@@ -1,0 +1,15 @@
+:root{
+    --primary-color:#
+}
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+.header__navbar-list{
+    padding-left: 0;
+    list-style: none;
+}
